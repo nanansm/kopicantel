@@ -11,6 +11,10 @@ html {
   
 }
 
+i.fa {
+  margin-right: 0.3rem;
+}
+
 body {
   background-position: center center;
   background-repeat: no-repeat;
@@ -36,6 +40,14 @@ h2 {
   color: #ffffff;
     
     letter-spacing: 0em;
+}
+
+h3{
+  font-weight: 500; color: #ffffff;
+}
+
+p{
+  color: #ffffff;
 }
 
 h4 {
