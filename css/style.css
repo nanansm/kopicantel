@@ -144,8 +144,8 @@ hr {
 
 .float{
 	position:fixed;
-	right:35px;
-    bottom:40px;
+	right:20px;
+    bottom:30px;
     width:45px;
 	height:45px;
 	/*background-color:#25d366;*/
@@ -166,6 +166,8 @@ hr {
 .my-float{
 	margin-top:16px;
 }
+
+
 
 /**********ID SELECTORS**********/
 /*ID Selectors can only be ussed once per page*/
