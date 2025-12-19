@@ -82,7 +82,7 @@ body{
   margin: 14px 0;
   padding: 16px;
   border-radius: var(--radius-lg);
-  background: var(--card);
+  background: #99BCAB;
   border: 1px solid rgba(255,255,255,0.18);
   backdrop-filter: blur(6px);
   box-shadow: 0 10px 22px var(--shadow);
